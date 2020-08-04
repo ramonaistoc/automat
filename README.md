@@ -2,4 +2,4 @@
 
 C++
 
-Lexical analyzer for C++ programming language
+Lexical analyzer for C++ 
